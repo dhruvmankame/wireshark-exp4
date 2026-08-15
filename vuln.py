@@ -1,4 +1,5 @@
 # vulnerable file edited for testing
+# hello
 import os
 import sqlite3
 
