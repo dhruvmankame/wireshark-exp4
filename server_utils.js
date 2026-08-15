@@ -1,5 +1,7 @@
 // server_utils.js — demo file with intentional vulnerabilities for scanner testing
 
+// just making some changes
+
 const express = require('express');
 const fs = require('fs');
 const { exec } = require('child_process');
